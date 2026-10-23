@@ -12,4 +12,4 @@ def calculate_tips(meal_price, custom_tip):
         f"${tip_15:.2f}",
         f"${tip_20:.2f}",
         f"${tip_custom:.2f}"
-    ]
+        }
